@@ -18,6 +18,6 @@ N/A
 
 ## Application Info
 
-Link to application:
+Link to application: https://aliteralwaffle.github.io/Module-3-Challenge/
 
 Image of application attached:
