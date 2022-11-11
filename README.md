@@ -1,3 +1,4 @@
+![Module3README](https://user-images.githubusercontent.com/43278458/201247319-18ae5a7c-9762-4238-a72d-9074abff4e9f.JPG)
 # Module 3 Challenge
 
 ## Description
