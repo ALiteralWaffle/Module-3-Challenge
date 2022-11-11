@@ -91,7 +91,7 @@ function generatePassword() {
   findSpecial();
   console.log(specialCheck);
 
-  var characters;
+  var characters = lowercaseChar;
   //This prevents "[Object HTMLTextAreaElement]" from appearing in the generated password
   var password = "";
 
